@@ -1,0 +1,45 @@
+.header {
+  background: #3eaf7c;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 15%;
+  cursor: pointer;
+  position: sticky;
+}
+.header .logo {
+  font-size: 24px;
+}
+.header .nav-list {
+  display: flex;
+}
+.header .nav-list li {
+  margin: 0 10px;
+}
+.header a {
+  color: #fff;
+}
+.footer {
+  background: #f8f8f8;
+  padding: 20px 15%;
+  cursor: pointer;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top: 1px solid #ddd;
+}
+.footer p {
+  color: #3eaf7c;
+}
+.mian {
+  padding: 0 15%;
+  background: #fafafa;
+}
+.mian .box {
+  background: #fff;
+  width: 100px;
+  height: 100px;
+  color: #fff;
+  box-shadow: 5px 5px 10px 2px #f3f3f3;
+}
