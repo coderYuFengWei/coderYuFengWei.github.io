@@ -21,6 +21,11 @@
 }
 .header a {
   color: #fff;
+  vertical-align: center;
+}
+.header .current {
+  color: #396aff !important;
+  font-weight: 550;
 }
 .footer {
   margin-top: 20px;
