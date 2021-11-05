@@ -174,4 +174,7 @@
   .footer {
     padding: 20px 5%;
   }
+  .footer .copy {
+    margin-top: 4px;
+  }
 }
